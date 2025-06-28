@@ -8,6 +8,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
+nltk = "*"
 
 [dev-packages]
 ipykernel = "*"
